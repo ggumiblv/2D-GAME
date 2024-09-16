@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig ({
-    base: "./2D-GAME",
+    base: "https://ggumiblv.github.io/2D-GAME/",
     build: {
         minify: "terser"
     },
